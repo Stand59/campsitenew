@@ -17,7 +17,7 @@ const Footer = () => {
                             <i className='fa fa-instagram' />
                         </a>{' '}
                         <a
-                            className='btn btn-social-icon btn-facebook'
+                            className='btn btn-social-icon btn-facebook'    
                             href='http://www.facebook.com/'
                         >
                             <i className='fa fa-facebook' />
